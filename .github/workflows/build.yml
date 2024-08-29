@@ -26,5 +26,5 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: true
-          tags: kilocycl3/django_docker:ci_cd
+          tags: kilocycl3/django_docker
         
